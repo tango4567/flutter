@@ -9,7 +9,7 @@ Before doing hands dirty with this framwork you should have strong knowlegde of 
 I stated with Hello-World application. 
 
 Work in progress...
-updating more details soon..
+improving and updating more details soon..
 
 Offical Web Site:  
 **[Flutter](https://flutter.io/)**

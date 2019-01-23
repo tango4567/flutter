@@ -13,3 +13,16 @@ improving and updating more details soon..
 
 Offical Web Site:  
 **[Flutter](https://flutter.io/)**
+
+**Whats new and traditional in Dart:**
+  1. Dart's main method is named `main()` or if you need access to command line arguments `main(List<String> args)`.
+  2. Dart don't have `public`, `private`, or `protected` tags. If you want to mark a identifier as private, then start its name      with an underscore (`_`) by which is convert into read-only by changing its name and adding a getter.
+  3. Dart uses 2-character indentation, by convention.
+  4. Dart have automatic, opinionated formatter. It means it take care of whitespace, indentation, inline and intelligent line      wrapping. If your are dealing with nested collection, long argument lists, challenging code or functional expression no        problem it will take care for every thing.
+  5. `new` is optional in Dart.
+  6. If you need make constant variable then you can use `final` instead of `var`.
+  7. `functions` or `methods` shorten by one-line using fat arrow (=>) notation.
+  8. Dart doesn't support overloading constructors and handles in uniquely. No need to write constructors multiple time with        different parameters.
+  9. Dart support `abstract` class. 
+  10.Single dart file can contain multiple class.
+  11.Dart don't have `interface` keyword because every class defines an interface.

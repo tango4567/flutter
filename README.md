@@ -26,3 +26,14 @@ Offical Web Site:
   9. Dart support `abstract` class. 
   10.Single dart file can contain multiple class.
   11.Dart don't have `interface` keyword because every class defines an interface.
+  
+  **Set Environment Path in Ubuntu**
+   1. Flutter:- 
+               > `export PATH="$PATH:`pwd`/flutter/bin"` 
+               > `flutter precache`
+               > `flutter doctor`
+   2. Dart:- 
+               > `export PATH="$PATH:/usr/lib/dart/bin"`
+               
+  
+  
